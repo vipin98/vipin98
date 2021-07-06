@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm vipin kumar pandey</h1>
-<h3 align="center">Full Stack MERN developer</h3>
+<h1>Hi 👋, I'm vipin kumar pandey</h1>
+<h3>Full Stack MERN developer</h3>
 
 - 🌱 I’m currently learning **React native**
 
