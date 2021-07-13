@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pvipin907@gmail.com**
 
-- ⚡ Fun fact **i love to play music on my free time & tavel places.**
+- ⚡ Fun fact **i love to play music on my free time & travel places.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
