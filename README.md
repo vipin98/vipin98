@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm vipin kumar pandey</h1>
 <h3>Full Stack MERN developer</h3>
 
-- 🌱 I’m currently learning  **React Native**
+- 🌱 I’m currently learning  **NEXT JS**
 
 - 👯 I’m looking to collaborate **with other passionate developer**
 
